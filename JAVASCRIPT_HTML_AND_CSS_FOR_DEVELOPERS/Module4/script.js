@@ -1,4 +1,4 @@
-﻿/ (Note, Step 2 will be done in the SpeakHello.js file.)
+﻿// (Note, Step 2 will be done in the SpeakHello.js file.)
 (function () {
 
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
@@ -10,7 +10,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 // See Lecture 50, part 1
 for (var i = 0; i < names.length; i++) {
 
-  // STEP 11: (NOTHING TO DO. ALREADY DONE FOR YOU)
+  // STEP 11: (NOTHING TO DO. ALL READY DONE FOR YOU)
   // Retrieve the first letter of the current name in the loop.
   // Use the string object's 'charAt' function. Since we are looking for
   // names that start with either upper case or lower case 'J'/'j', call
